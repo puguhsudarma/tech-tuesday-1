@@ -1,5 +1,5 @@
-const a = 1;
-const b = 2;
+const a = 5;
+const b = 3;
 
 const c = a + b;
 
